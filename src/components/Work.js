@@ -80,7 +80,7 @@ export default function Work() {
       {images}
 
       <div className="mobile-copyright">
-        <i className="far fa-copyright" /> ERICHKOPP 2020
+        <i className="far fa-copyright" /> SHRAVAN 
       </div>
 
       <Arrows

@@ -7,7 +7,7 @@ export default function Contact() {
       <form
         id="myForm"
         method="POST"
-        action="https://formspree.io/erichkopp@gmail.com"
+        action="https://formspree.io/f/xvoeknja"
       >
         <input
           className="email"
