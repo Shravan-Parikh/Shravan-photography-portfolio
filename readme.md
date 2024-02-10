@@ -31,11 +31,11 @@ npm install
 ```
 if critical issues are there then
 ```bash
-npm fix audit   
+npm audit fix 
 ```
 or 
 ```bash
-npm fix audit --force
+npm audit fix --force
 ```
 
 finally run the website locally
